@@ -23,10 +23,10 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔹 [**Booking-System**](https://github.com/amer0khaled/Booking-System)  
+- [**Booking-System**](https://github.com/amer0khaled/Booking-System)  
   Microservices-based booking and reservation system with **Spring Boot**, **Spring Security**, **Hibernate**, **PostgreSQL**, and **Docker**.  
 
-- 🔹 [**Task-Tracker**](https://github.com/amer0khaled/task-tracker)  
+- [**Task-Tracker**](https://github.com/amer0khaled/task-tracker)  
   REST API for managing tasks & lists with **Spring Boot**, **Hibernate (JPA)**, and **H2/PostgreSQL**.  
 
 ---
