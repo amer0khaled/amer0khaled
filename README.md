@@ -1,6 +1,87 @@
-<div align="center"> <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" /> </div>
-<div align="center"> <a href="https://www.linkedin.com/in/amer-khaled-8b1296276/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" /> </a> <a href="amer_khaled" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo" /> </a> <a href="01144248657" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo" /> </a> </div>
-<h1 align="center">Hey there 👋</h1>
-<h3 align="left">👨‍💻 About Me</h3> <p align="left"> I'm Amer Khaled, a backend developer from Egypt.<br><br> - 💼 Working as a Java Backend Developer<br> - 🌱 Currently learning more about Spring Boot and Microservices<br> - ⚽ I enjoy reading and watching the Premier League in my free time </p>
-<h3 align="left">🛠 Languages & Tools</h3> <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /> </div>
-<h3 align="left">📊 My Background</h3> <p align="left">🎓 Electronics and Communications Engineering Graduate with a strong interest in backend systems and scalable applications.</p>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">
+  Welcome to Amer Khaled's Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Spring%20Boot%20%7C%20Hibernate%20Enthusiast;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=520&height=45&color=00bfff&vCenter=true&size=22">
+  </a>
+</p> 
+
+---
+
+### 🧑‍💻 About Me
+- 🎓 Electronics & Communications Engineering Graduate (Class of 2025).
+- 🏢 Built microservices projects like **Booking System** and **Task Tracker**.  
+- 💻 Passionate about **backend development** with **Java + Spring Boot + Hibernate**.  
+- 🔥 Exploring **Spring Security, Microservices, and DevOps tools**.  
+- 📚 Lifelong learner in **software design, clean architecture, and problem-solving**.  
+
+---
+
+### 🚀 Featured Projects
+- 🔹 [**Booking-System**](https://github.com/amer0khaled/Booking-System)  
+  Microservices-based booking and reservation system with **Spring Boot**, **Spring Security**, **Hibernate**, **PostgreSQL**, and **Docker**.  
+
+- 🔹 [**Task-Tracker**](https://github.com/amer0khaled/task-tracker)  
+  REST API for managing tasks & lists with **Spring Boot**, **Hibernate (JPA)**, and **H2/PostgreSQL**.  
+
+---
+
+### 🎯 Current Goals
+- Master advanced **Spring Boot Security & Microservices**.  
+- Learn **Kafka, Docker, and Kubernetes** for scalable systems.  
+- Improve problem-solving with **LeetCode**.  
+- Gain experience with **cloud deployment (AWS/Render/Heroku)**.  
+
+---
+
+### 📖 What I'm Currently Reading
+- [**Spring in Action, 6th Edition**](https://www.manning.com/books/spring-in-action-sixth-edition)  
+- [**Designing Data-Intensive Applications**](https://dataintensive.net/)  
+
+---
+
+### 📫 How to Reach Me
+- **Email**: **amer.khaled.dev@gmail.com**  
+- **LinkedIn**: <b><a href="https://www.linkedin.com/in/amer-khaled" target="_blank">My Profile</a></b>  
+- **GitHub**: [amer0khaled](https://github.com/amer0khaled)  
+
+---
+
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=007396)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-05122A?style=flat&logo=springsecurity)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
+
+---
+
+### 🛠️ Skills
+- **Backend**: Spring Boot, Hibernate (JPA), Spring Security, Microservices  
+- **Frontend**: Angular (basic), HTML, Bootstrap, JavaScript, TypeScript  
+- **Databases**: PostgreSQL, MySQL, H2  
+- **DevOps**: Docker, GitHub Actions (CI/CD)  
+- **Languages**: Java, C++, SQL  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,postgresql,idea,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,bootstrap,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
+  <img align="left" alt="Hibernate" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amer0khaled&show_icons=true&theme=tokyonight" alt="Amer's GitHub stats" />
+</p>
