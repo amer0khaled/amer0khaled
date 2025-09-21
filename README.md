@@ -70,7 +70,7 @@
 - **Languages**: Java, C#, C/C++, SQL  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c#,spring,postman,mysql,postgresql,idea,cpp" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,postgresql,idea,cpp" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
   <img align="left" alt="Hibernate" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
 </p>
