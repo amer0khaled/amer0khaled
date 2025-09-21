@@ -45,7 +45,7 @@
 
 ### 📫 How to Reach Me
 - **Email**: **amrkhald144@gmail.com**  
-- **LinkedIn**: <b><a href="[https://www.linkedin.com/in/amer-khaled](https://www.linkedin.com/in/amer-khaled-8b1296276/]" target="_blank">My Profile</a></b>  
+- **LinkedIn**: <b><a href="[https://www.linkedin.com/in/amer-khaled](https://www.linkedin.com/in/amer-khaled-8b1296276/)" target="_blank">My Profile</a></b>
 - **GitHub**: [amer0khaled](https://github.com/amer0khaled)  
 
 ---
