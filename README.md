@@ -15,10 +15,10 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Electronics & Communications Engineering Graduate (Class of 2025).
-- 🏢 Built microservices projects like **Booking System** and **Task Tracker**.  
-- 💻 Passionate about **backend development** with **Java + Spring Boot + Hibernate**.  
+- 🏢 Built projects like **Booking System** and **Task Tracker**.  
+- 💻 Passionate about **backend development** with **Java + Spring Boot + Hibernate + Spring Data JPA** **, Operating Systems, and Database internals**.  
 - 🔥 Exploring **Spring Security, Microservices, and DevOps tools**.  
-- 📚 Lifelong learner in **software design, clean architecture, and problem-solving**.  
+- 📚 Lifelong learner in **software design, Software architecture, and problem-solving**.  
 
 ---
 
@@ -32,22 +32,20 @@
 ---
 
 ### 🎯 Current Goals
-- Master advanced **Spring Boot Security & Microservices**.  
+- Master advanced **Spring Security & Microservices**.  
 - Learn **Kafka, Docker, and Kubernetes** for scalable systems.  
-- Improve problem-solving with **LeetCode**.  
-- Gain experience with **cloud deployment (AWS/Render/Heroku)**.  
-
+- Improve problem-solving with **LeetCode**.
 ---
 
 ### 📖 What I'm Currently Reading
-- [**Spring in Action, 6th Edition**](https://www.manning.com/books/spring-in-action-sixth-edition)  
+- [**Spring Security in Action, 2th Edition**](https://www.manning.com/books/spring-in-action-sixth-edition)  
 - [**Designing Data-Intensive Applications**](https://dataintensive.net/)  
 
 ---
 
 ### 📫 How to Reach Me
-- **Email**: **amer.khaled.dev@gmail.com**  
-- **LinkedIn**: <b><a href="https://www.linkedin.com/in/amer-khaled" target="_blank">My Profile</a></b>  
+- **Email**: **amrkhald144@gmail.com**  
+- **LinkedIn**: <b><a href="[https://www.linkedin.com/in/amer-khaled](https://www.linkedin.com/in/amer-khaled-8b1296276/)" target="_blank">My Profile</a></b>  
 - **GitHub**: [amer0khaled](https://github.com/amer0khaled)  
 
 ---
@@ -66,15 +64,13 @@
 ---
 
 ### 🛠️ Skills
-- **Backend**: Spring Boot, Hibernate (JPA), Spring Security, Microservices  
-- **Frontend**: Angular (basic), HTML, Bootstrap, JavaScript, TypeScript  
+- **Backend**: Spring Boot, Hibernate (JPA), Spring Security, Spring Cloud, Microservices  
 - **Databases**: PostgreSQL, MySQL, H2  
 - **DevOps**: Docker, GitHub Actions (CI/CD)  
-- **Languages**: Java, C++, SQL  
+- **Languages**: Java, C#, C/C++, SQL  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql,postgresql,idea,cpp" /><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,bootstrap,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=java,csharp,spring,postman,mysql,postgresql,idea,cpp" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
   <img align="left" alt="Hibernate" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
 </p>
